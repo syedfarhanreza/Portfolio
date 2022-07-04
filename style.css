@@ -8,9 +8,9 @@ h1{
 .orange-color{
     color: orange;
 }
-section{
+.flexible-container{
     display: flex;
-    margin-bottom: 150pxc;
+    margin-bottom: 150px;
 }
 .half-width{
   width: 50%;
@@ -34,5 +34,4 @@ section{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
-    padding-right: 10px;
 }
